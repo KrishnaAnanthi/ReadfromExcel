@@ -1,0 +1,241 @@
+var xlsx = require('node-xlsx');
+var fs = require('fs');
+var obj = xlsx.parse(__dirname + '/codeNew.xlsx'); //removed strikethrough with double digits
+let rawData = obj[0].data;
+let index = 0;
+let formattedData = '';
+let count = 0,
+    one = 0,
+    two = 0,
+    oneone = 0,
+    twotwo = 0,
+    twothree = 0,
+    codeDesc = 0,
+    codeDescElse = 0;
+for (const row of rawData) {
+    if (index === 0) {
+        console.log('first line');
+        index = 1;
+        continue;
+    }
+    let [header, codeId, codeDesc, codeType] = row;
+    if (codeDesc === 'Leave Blank') {
+        /* //808 blank records 
+               console.log(codeId+' '+codeType+' '+codeDesc); */
+        codeDesc++;
+        continue;
+    }
+
+    if (codeType === '1' || codeType === '2' || codeType === '3' || codeType === 1 || codeType === 2 || codeType === 3) { //insert into opening code 1
+        one++;
+        formattedData += `
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('${pad(codeId,3)}'
+        ,'${codeDesc}'
+        ,'${codeDesc}'
+        ,${codeType}
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO `;
+    } else if (codeType === '2 & 3') {
+        two++;
+        formattedData += `
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('${pad(codeId,3)}'
+        ,'${codeDesc}'
+        ,'${codeDesc}'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('${pad(codeId,3)}'
+        ,'${codeDesc}'
+        ,'${codeDesc}'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO `;
+    } else if (codeType === '11' || codeType === 11) { //insert into opening code 1
+        oneone++;
+        formattedData += `
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('${pad(codeId,3)}'
+        ,'${codeDesc}'
+        ,'${codeDesc}'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO `;
+    } else if (codeType === '22' || codeType === 22) { //insert into opening code 1
+        twotwo++;
+        formattedData += `
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('${pad(codeId,3)}'
+        ,'${codeDesc}'
+        ,'${codeDesc}'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO `;
+    } else if (codeType === '22 & 33') {
+        twothree++;
+        formattedData += `
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('${pad(codeId,3)}'
+        ,'${codeDesc}'
+        ,'${codeDesc}'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('${pad(codeId,3)}'
+        ,'${codeDesc}'
+        ,'${codeDesc}'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO `;
+    } else if (codeId !== undefined) {
+        count++;
+        formattedData += `
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('${pad(codeId,3)}'
+            ,'${codeDesc}'
+            ,'${codeDesc}'
+            ,0
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO `;
+    } else {
+        console.log('else block' + codeId);
+        console.log(codeType);
+        console.log(codeDesc);
+    }
+}
+console.log('one 11 -' + one);
+console.log('two 2&3 -' + two);
+console.log('oneone 11 -' + oneone);
+console.log('twotwo 22 -' + twotwo);
+console.log('twothree 11 & 22 -' + twothree);
+console.log('else -' + count);
+console.log('codeDesc Undefined count 808-' + codeDesc);
+fs.writeFile(__dirname + '/OpeningCode.txt', formattedData, (err, data) => {
+    if (err)
+        console.log('error while writing');
+    if (data)
+        console.log('Done');
+});
+
+function pad(no, size) {
+    var s = String(no);
+    while (s.length < (size || 2)) {
+        s = "0" + s;
+    }
+    return s;
+}

@@ -1,0 +1,6091 @@
+
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('001'
+        ,'Violence Against The Person'
+        ,'Violence Against The Person'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('002'
+        ,'Sexual Offences '
+        ,'Sexual Offences '
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('003'
+        ,'Burglary Dwelling'
+        ,'Burglary Dwelling'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('004'
+        ,'Burglary Other Than A Dwelling'
+        ,'Burglary Other Than A Dwelling'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('005'
+        ,'Robbery'
+        ,'Robbery'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('006'
+        ,'Theft Of Motor Veh'
+        ,'Theft Of Motor Veh'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('007'
+        ,'Theft From Motor Veh'
+        ,'Theft From Motor Veh'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('008'
+        ,'Theft Other'
+        ,'Theft Other'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('009'
+        ,'Fraud And Forgery'
+        ,'Fraud And Forgery'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('010'
+        ,'Criminal Damage'
+        ,'Criminal Damage'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('011'
+        ,'Drugs Offence'
+        ,'Drugs Offence'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('012'
+        ,'Bomb Threat'
+        ,'Bomb Threat'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('013'
+        ,'Theft - Shoplifting'
+        ,'Theft - Shoplifting'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('014'
+        ,'Harassment Act Offences'
+        ,'Harassment Act Offences'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('015'
+        ,'Abduction / Kidnap'
+        ,'Abduction / Kidnap'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('016'
+        ,'Unlisted Crime'
+        ,'Unlisted Crime'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('017'
+        ,'Malicious Communication'
+        ,'Malicious Communication'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('018'
+        ,'Sexual Offences - Rape '
+        ,'Sexual Offences - Rape '
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('100'
+        ,'RTC / Incident - Damage Only'
+        ,'RTC / Incident - Damage Only'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('101'
+        ,'RTC / Incident - Injury'
+        ,'RTC / Incident - Injury'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('102'
+        ,'Highway Disruption'
+        ,'Highway Disruption'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('103'
+        ,'Road Related Offence'
+        ,'Road Related Offence'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('104'
+        ,'Rail / Air / Marine Incident '
+        ,'Rail / Air / Marine Incident '
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('105'
+        ,'RTC / Incident - Death'
+        ,'RTC / Incident - Death'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('200'
+        ,'Veh - Abandoned Not Stolen '
+        ,'Veh - Abandoned Not Stolen '
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('200'
+        ,'Veh - Abandoned Not Stolen '
+        ,'Veh - Abandoned Not Stolen '
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('201'
+        ,'Veh Nuisance / Inappropriate Use'
+        ,'Veh Nuisance / Inappropriate Use'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('201'
+        ,'Veh Nuisance / Inappropriate Use'
+        ,'Veh Nuisance / Inappropriate Use'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('202'
+        ,'Rowdy Or Inconsiderate Behaviour'
+        ,'Rowdy Or Inconsiderate Behaviour'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('202'
+        ,'Rowdy Or Inconsiderate Behaviour'
+        ,'Rowdy Or Inconsiderate Behaviour'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('203'
+        ,'Hoax Call To Emergency Services'
+        ,'Hoax Call To Emergency Services'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('204'
+        ,'Rowdy / Nuisance Neighbours'
+        ,'Rowdy / Nuisance Neighbours'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('204'
+        ,'Rowdy / Nuisance Neighbours'
+        ,'Rowdy / Nuisance Neighbours'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('205'
+        ,'Littering / Drugs Paraphernalia'
+        ,'Littering / Drugs Paraphernalia'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('205'
+        ,'Littering / Drugs Paraphernalia'
+        ,'Littering / Drugs Paraphernalia'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('206'
+        ,'Animal Problems'
+        ,'Animal Problems'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('206'
+        ,'Animal Problems'
+        ,'Animal Problems'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('207'
+        ,'Trespass'
+        ,'Trespass'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('207'
+        ,'Trespass'
+        ,'Trespass'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('208'
+        ,'Malicious / Nuisance Communications'
+        ,'Malicious / Nuisance Communications'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('209'
+        ,'Street Drinking'
+        ,'Street Drinking'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('209'
+        ,'Street Drinking'
+        ,'Street Drinking'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('210'
+        ,'Prostitution Related Activity'
+        ,'Prostitution Related Activity'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('210'
+        ,'Prostitution Related Activity'
+        ,'Prostitution Related Activity'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('211'
+        ,'Noise'
+        ,'Noise'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('211'
+        ,'Noise'
+        ,'Noise'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('212'
+        ,'Begging / Vagrancy'
+        ,'Begging / Vagrancy'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('212'
+        ,'Begging / Vagrancy'
+        ,'Begging / Vagrancy'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('213'
+        ,'Fireworks '
+        ,'Fireworks '
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('213'
+        ,'Fireworks '
+        ,'Fireworks '
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('214'
+        ,'ASB - Personal'
+        ,'ASB - Personal'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('215'
+        ,'ASB - Nuisance'
+        ,'ASB - Nuisance'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('216'
+        ,'ASB - Environmental'
+        ,'ASB - Environmental'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('217'
+        ,'Nuisance Calls'
+        ,'Nuisance Calls'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('217'
+        ,'Nuisance Calls'
+        ,'Nuisance Calls'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('300'
+        ,'Abandoned Call'
+        ,'Abandoned Call'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('301'
+        ,'Licensing'
+        ,'Licensing'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('302'
+        ,'Natural Disaster - Incident / Warn'
+        ,'Natural Disaster - Incident / Warn'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('303'
+        ,'Industrial Incident / Accident'
+        ,'Industrial Incident / Accident'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('304'
+        ,'Domestic Incident'
+        ,'Domestic Incident'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('305'
+        ,'Civil Disputes'
+        ,'Civil Disputes'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('306'
+        ,'Suspicious Package / Object'
+        ,'Suspicious Package / Object'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('307'
+        ,'Animals - Pets / Domesticated '
+        ,'Animals - Pets / Domesticated '
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('308'
+        ,'Collapse / Illness / Inj / Trapped'
+        ,'Collapse / Illness / Inj / Trapped'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('309'
+        ,'Concern For Safety'
+        ,'Concern For Safety'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('310'
+        ,'Absconders / AWOL'
+        ,'Absconders / AWOL'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('311'
+        ,'Missing Person'
+        ,'Missing Person'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('312'
+        ,'Wanted - Pol Crt Order / Bail'
+        ,'Wanted - Pol Crt Order / Bail'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('313'
+        ,'Sudden Death'
+        ,'Sudden Death'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('314'
+        ,'Suspicious Circumstances'
+        ,'Suspicious Circumstances'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('315'
+        ,'Insecure Premises / vehs'
+        ,'Insecure Premises / vehs'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('316'
+        ,'Alarm: Police Installed'
+        ,'Alarm: Police Installed'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('317'
+        ,'Alarm: Central Station '
+        ,'Alarm: Central Station '
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('318'
+            ,'Alarm: Central Station False'
+            ,'Alarm: Central Station False'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('319'
+        ,'Alarm: Premises Audible Only'
+        ,'Alarm: Premises Audible Only'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('320'
+        ,'Firearms'
+        ,'Firearms'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('321'
+        ,'Immigration'
+        ,'Immigration'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('322'
+        ,'Protest / Demonstration'
+        ,'Protest / Demonstration'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('323'
+        ,'Truancy'
+        ,'Truancy'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('324'
+        ,'Wildlife'
+        ,'Wildlife'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('325'
+        ,'Hoax Call To Emergency Services'
+        ,'Hoax Call To Emergency Services'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('326'
+        ,'Absent'
+        ,'Absent'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('400'
+        ,'Suspects Chased On Foot'
+        ,'Suspects Chased On Foot'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('401'
+        ,'Veh Pursuit'
+        ,'Veh Pursuit'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('402'
+        ,'C-BuF duplicated record'
+        ,'C-BuF duplicated record'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('403'
+        ,'Tag Breach'
+        ,'Tag Breach'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('403'
+        ,'Tag Breach'
+        ,'Tag Breach'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('404'
+        ,'Urgent Assistance'
+        ,'Urgent Assistance'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('405'
+        ,'Vehicle Removal'
+        ,'Vehicle Removal'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('406'
+        ,'Assistance Rendered'
+        ,'Assistance Rendered'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('407'
+        ,'Suspect Spoken To'
+        ,'Suspect Spoken To'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('407'
+        ,'Suspect Spoken To'
+        ,'Suspect Spoken To'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('408'
+        ,'Truancy Related'
+        ,'Truancy Related'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('500'
+        ,'Complaints Against Police'
+        ,'Complaints Against Police'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('501'
+        ,'Lost / Found Property / Person'
+        ,'Lost / Found Property / Person'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('502'
+        ,'Messages'
+        ,'Messages'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('503'
+        ,'Police Generated Resource Activity'
+        ,'Police Generated Resource Activity'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('504'
+        ,'Pre-Planned Events'
+        ,'Pre-Planned Events'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('505'
+        ,'Error'
+        ,'Error'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('506'
+        ,'Duplicate '
+        ,'Duplicate '
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('507'
+        ,'Contact Record'
+        ,'Contact Record'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('508'
+        ,'Switchboard Call'
+        ,'Switchboard Call'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('509'
+        ,'Test / Training'
+        ,'Test / Training'
+        ,1
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('600'
+        ,'Alcohol'
+        ,'Alcohol'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('600'
+        ,'Alcohol'
+        ,'Alcohol'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('601'
+        ,'Drugs Related'
+        ,'Drugs Related'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('601'
+        ,'Drugs Related'
+        ,'Drugs Related'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('602'
+            ,'Call Made With Good Intent'
+            ,'Call Made With Good Intent'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('603'
+        ,'Cold Calling'
+        ,'Cold Calling'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('603'
+        ,'Cold Calling'
+        ,'Cold Calling'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('604'
+        ,'Critical Incident'
+        ,'Critical Incident'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('604'
+        ,'Critical Incident'
+        ,'Critical Incident'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('605'
+        ,'Major Incident'
+        ,'Major Incident'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('605'
+        ,'Major Incident'
+        ,'Major Incident'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('606'
+        ,'Domestic Crime '
+        ,'Domestic Crime '
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('606'
+        ,'Domestic Crime '
+        ,'Domestic Crime '
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('607'
+        ,'Weapon - not knife/blade/firearm '
+        ,'Weapon - not knife/blade/firearm '
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('607'
+        ,'Weapon - not knife/blade/firearm '
+        ,'Weapon - not knife/blade/firearm '
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('608'
+        ,'Youth Related '
+        ,'Youth Related '
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('608'
+        ,'Youth Related '
+        ,'Youth Related '
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('609'
+        ,'Child / Young Person At Risk'
+        ,'Child / Young Person At Risk'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('609'
+        ,'Child / Young Person At Risk'
+        ,'Child / Young Person At Risk'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('610'
+        ,'Repeat Caller and/or Victim'
+        ,'Repeat Caller and/or Victim'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('610'
+        ,'Repeat Caller and/or Victim'
+        ,'Repeat Caller and/or Victim'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('611'
+        ,'Assistance To Other Public Agency'
+        ,'Assistance To Other Public Agency'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('611'
+        ,'Assistance To Other Public Agency'
+        ,'Assistance To Other Public Agency'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('612'
+        ,'Mental Health'
+        ,'Mental Health'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('612'
+        ,'Mental Health'
+        ,'Mental Health'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('613'
+        ,'Other Public Agency Dealing'
+        ,'Other Public Agency Dealing'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('613'
+        ,'Other Public Agency Dealing'
+        ,'Other Public Agency Dealing'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('614'
+        ,'Prejudice - Racial'
+        ,'Prejudice - Racial'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('614'
+        ,'Prejudice - Racial'
+        ,'Prejudice - Racial'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('615'
+        ,'Prejudice - Religion Or Belief'
+        ,'Prejudice - Religion Or Belief'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('615'
+        ,'Prejudice - Religion Or Belief'
+        ,'Prejudice - Religion Or Belief'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('616'
+        ,'Prejudice - Sexual Orientation'
+        ,'Prejudice - Sexual Orientation'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('616'
+        ,'Prejudice - Sexual Orientation'
+        ,'Prejudice - Sexual Orientation'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('617'
+        ,'Prejudice - Transgender'
+        ,'Prejudice - Transgender'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('617'
+        ,'Prejudice - Transgender'
+        ,'Prejudice - Transgender'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('618'
+        ,'Prejudice - Disability'
+        ,'Prejudice - Disability'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('618'
+        ,'Prejudice - Disability'
+        ,'Prejudice - Disability'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('619'
+        ,'Terrorist Related'
+        ,'Terrorist Related'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('619'
+        ,'Terrorist Related'
+        ,'Terrorist Related'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('620'
+        ,'Veh Clamp / Removal'
+        ,'Veh Clamp / Removal'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('620'
+        ,'Veh Clamp / Removal'
+        ,'Veh Clamp / Removal'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('621'
+        ,'Strategic Network'
+        ,'Strategic Network'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('621'
+        ,'Strategic Network'
+        ,'Strategic Network'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('622'
+            ,'All Quiet On Police Arrival'
+            ,'All Quiet On Police Arrival'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('623'
+        ,'Approach With Caution'
+        ,'Approach With Caution'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('623'
+        ,'Approach With Caution'
+        ,'Approach With Caution'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('624'
+        ,'Attempted'
+        ,'Attempted'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('624'
+        ,'Attempted'
+        ,'Attempted'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('625'
+        ,'Believed'
+        ,'Believed'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('625'
+        ,'Believed'
+        ,'Believed'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('626'
+        ,'Serious'
+        ,'Serious'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('626'
+        ,'Serious'
+        ,'Serious'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('630'
+        ,'Prejudice - Other'
+        ,'Prejudice - Other'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('630'
+        ,'Prejudice - Other'
+        ,'Prejudice - Other'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('631'
+        ,'Honour Based Incident'
+        ,'Honour Based Incident'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('631'
+        ,'Honour Based Incident'
+        ,'Honour Based Incident'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('632'
+        ,'Olympics'
+        ,'Olympics'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('632'
+        ,'Olympics'
+        ,'Olympics'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('633'
+        ,'Knife / Bladed Article'
+        ,'Knife / Bladed Article'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('633'
+        ,'Knife / Bladed Article'
+        ,'Knife / Bladed Article'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('634'
+        ,'Other Police Service Dealing'
+        ,'Other Police Service Dealing'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('634'
+        ,'Other Police Service Dealing'
+        ,'Other Police Service Dealing'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('635'
+        ,'Vulnerable'
+        ,'Vulnerable'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('635'
+        ,'Vulnerable'
+        ,'Vulnerable'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('636'
+        ,'Intimidation'
+        ,'Intimidation'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('636'
+        ,'Intimidation'
+        ,'Intimidation'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('637'
+        ,'Local Priority'
+        ,'Local Priority'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('637'
+        ,'Local Priority'
+        ,'Local Priority'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('638'
+        ,'Quality Of Life'
+        ,'Quality Of Life'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('638'
+        ,'Quality Of Life'
+        ,'Quality Of Life'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('639'
+        ,'Repeat Call - PNYA'
+        ,'Repeat Call - PNYA'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('639'
+        ,'Repeat Call - PNYA'
+        ,'Repeat Call - PNYA'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('640'
+        ,'Repeat Call - Missed Appointment '
+        ,'Repeat Call - Missed Appointment '
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('640'
+        ,'Repeat Call - Missed Appointment '
+        ,'Repeat Call - Missed Appointment '
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('641'
+        ,'CS Spray Used'
+        ,'CS Spray Used'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('641'
+        ,'CS Spray Used'
+        ,'CS Spray Used'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('642'
+        ,'Intoxicants - Other'
+        ,'Intoxicants - Other'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('642'
+        ,'Intoxicants - Other'
+        ,'Intoxicants - Other'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('643'
+        ,'Fire / Gas / Electricity'
+        ,'Fire / Gas / Electricity'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('643'
+        ,'Fire / Gas / Electricity'
+        ,'Fire / Gas / Electricity'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('644'
+        ,'Motorway Incident'
+        ,'Motorway Incident'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('644'
+        ,'Motorway Incident'
+        ,'Motorway Incident'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('645'
+        ,'Abnormal Load'
+        ,'Abnormal Load'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('645'
+        ,'Abnormal Load'
+        ,'Abnormal Load'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('646'
+        ,'Road / Sign Defect'
+        ,'Road / Sign Defect'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('646'
+        ,'Road / Sign Defect'
+        ,'Road / Sign Defect'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('647'
+        ,'Traffic Hazard '
+        ,'Traffic Hazard '
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('647'
+        ,'Traffic Hazard '
+        ,'Traffic Hazard '
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('648'
+        ,'Missing Person Debrief'
+        ,'Missing Person Debrief'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('648'
+        ,'Missing Person Debrief'
+        ,'Missing Person Debrief'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('649'
+        ,'IA - Intruder Alarm'
+        ,'IA - Intruder Alarm'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('649'
+        ,'IA - Intruder Alarm'
+        ,'IA - Intruder Alarm'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('650'
+        ,'PA - Personal Attack'
+        ,'PA - Personal Attack'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('650'
+        ,'PA - Personal Attack'
+        ,'PA - Personal Attack'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('651'
+        ,'LF - Line Fault'
+        ,'LF - Line Fault'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('651'
+        ,'LF - Line Fault'
+        ,'LF - Line Fault'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('652'
+        ,'CS - Confirmed Sequentially'
+        ,'CS - Confirmed Sequentially'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('652'
+        ,'CS - Confirmed Sequentially'
+        ,'CS - Confirmed Sequentially'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('653'
+        ,'CA - Confirmed Audible'
+        ,'CA - Confirmed Audible'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('653'
+        ,'CA - Confirmed Audible'
+        ,'CA - Confirmed Audible'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('654'
+        ,'CV - Confirmed Visual'
+        ,'CV - Confirmed Visual'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('654'
+        ,'CV - Confirmed Visual'
+        ,'CV - Confirmed Visual'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('655'
+        ,'CCTV - Confirmed via CCTV'
+        ,'CCTV - Confirmed via CCTV'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('655'
+        ,'CCTV - Confirmed via CCTV'
+        ,'CCTV - Confirmed via CCTV'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('656'
+        ,'Alarm: Withdrawn / Banned'
+        ,'Alarm: Withdrawn / Banned'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('656'
+        ,'Alarm: Withdrawn / Banned'
+        ,'Alarm: Withdrawn / Banned'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('657'
+            ,'False Alarm - Set Off In Error'
+            ,'False Alarm - Set Off In Error'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('658'
+        ,'Firearm Discharged'
+        ,'Firearm Discharged'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('658'
+        ,'Firearm Discharged'
+        ,'Firearm Discharged'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('659'
+            ,'Firearm - Imitation '
+            ,'Firearm - Imitation '
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('660'
+        ,'Firearm Injury'
+        ,'Firearm Injury'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('660'
+        ,'Firearm Injury'
+        ,'Firearm Injury'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('661'
+        ,'Firearm No Injury'
+        ,'Firearm No Injury'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('661'
+        ,'Firearm No Injury'
+        ,'Firearm No Injury'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('662'
+        ,'Firearm Seen'
+        ,'Firearm Seen'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('662'
+        ,'Firearm Seen'
+        ,'Firearm Seen'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('663'
+        ,'Firearm Not Seen'
+        ,'Firearm Not Seen'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('663'
+        ,'Firearm Not Seen'
+        ,'Firearm Not Seen'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('664'
+        ,'River / Lake / Canal etc'
+        ,'River / Lake / Canal etc'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('664'
+        ,'River / Lake / Canal etc'
+        ,'River / Lake / Canal etc'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('665'
+            ,'Abandoned Call Not To Operator'
+            ,'Abandoned Call Not To Operator'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('666'
+        ,'Chemical / Radiation'
+        ,'Chemical / Radiation'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('666'
+        ,'Chemical / Radiation'
+        ,'Chemical / Radiation'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('667'
+        ,'Suspects On Premises'
+        ,'Suspects On Premises'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('667'
+        ,'Suspects On Premises'
+        ,'Suspects On Premises'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('668'
+        ,'Suspects Disturbed'
+        ,'Suspects Disturbed'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('668'
+        ,'Suspects Disturbed'
+        ,'Suspects Disturbed'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('669'
+        ,'Veh Locator System'
+        ,'Veh Locator System'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('669'
+        ,'Veh Locator System'
+        ,'Veh Locator System'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('670'
+        ,'Suspect Armed '
+        ,'Suspect Armed '
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('670'
+        ,'Suspect Armed '
+        ,'Suspect Armed '
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('671'
+        ,'Explosion'
+        ,'Explosion'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('671'
+        ,'Explosion'
+        ,'Explosion'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('672'
+        ,'Stop / Search'
+        ,'Stop / Search'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('672'
+        ,'Stop / Search'
+        ,'Stop / Search'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('673'
+        ,'Quality of Police Service '
+        ,'Quality of Police Service '
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('673'
+        ,'Quality of Police Service '
+        ,'Quality of Police Service '
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('674'
+        ,'Go To Meet / Contact / Enquire'
+        ,'Go To Meet / Contact / Enquire'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('674'
+        ,'Go To Meet / Contact / Enquire'
+        ,'Go To Meet / Contact / Enquire'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('675'
+        ,'Missing Person Safe and Well Check'
+        ,'Missing Person Safe and Well Check'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('675'
+        ,'Missing Person Safe and Well Check'
+        ,'Missing Person Safe and Well Check'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('676'
+            ,'Resolved by LRT'
+            ,'Resolved by LRT'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('677'
+        ,'Welfare Check Request - Partner Agency'
+        ,'Welfare Check Request - Partner Agency'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('677'
+        ,'Welfare Check Request - Partner Agency'
+        ,'Welfare Check Request - Partner Agency'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('700'
+        ,'Detain / Detained'
+        ,'Detain / Detained'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('700'
+        ,'Detain / Detained'
+        ,'Detain / Detained'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('701'
+        ,'Assistance Requested / Rendered'
+        ,'Assistance Requested / Rendered'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('701'
+        ,'Assistance Requested / Rendered'
+        ,'Assistance Requested / Rendered'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('702'
+        ,'No Trace'
+        ,'No Trace'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('702'
+        ,'No Trace'
+        ,'No Trace'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('703'
+        ,'No Offences Disclosed'
+        ,'No Offences Disclosed'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('703'
+        ,'No Offences Disclosed'
+        ,'No Offences Disclosed'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('704'
+        ,'Inform / Informed'
+        ,'Inform / Informed'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('704'
+        ,'Inform / Informed'
+        ,'Inform / Informed'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('705'
+        ,'Advice Given'
+        ,'Advice Given'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('705'
+        ,'Advice Given'
+        ,'Advice Given'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('706'
+            ,'Satisfactory Stop / Search '
+            ,'Satisfactory Stop / Search '
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('707'
+        ,'Cancelled'
+        ,'Cancelled'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('707'
+        ,'Cancelled'
+        ,'Cancelled'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('708'
+            ,'Process / FPN'
+            ,'Process / FPN'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('709'
+            ,'CRIMINT Entry'
+            ,'CRIMINT Entry'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('710'
+            ,'CRIS Entry/Updated'
+            ,'CRIS Entry/Updated'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('711'
+            ,'MERLIN Entry'
+            ,'MERLIN Entry'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('712'
+        ,'Caller/Suspect Spoken to / Updated'
+        ,'Caller/Suspect Spoken to / Updated'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('713'
+            ,'Other Agencies Informed'
+            ,'Other Agencies Informed'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('714'
+            ,'Switchboard Call Transferred'
+            ,'Switchboard Call Transferred'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('715'
+            ,'Abandoned Call Not To Operator'
+            ,'Abandoned Call Not To Operator'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('716'
+        ,'Alarm Set Off In Error'
+        ,'Alarm Set Off In Error'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('716'
+        ,'Alarm Set Off In Error'
+        ,'Alarm Set Off In Error'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('717'
+        ,'Alarm - Set Off With Good Intent'
+        ,'Alarm - Set Off With Good Intent'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('717'
+        ,'Alarm - Set Off With Good Intent'
+        ,'Alarm - Set Off With Good Intent'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('718'
+        ,'Police Attendance Not Required'
+        ,'Police Attendance Not Required'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('718'
+        ,'Police Attendance Not Required'
+        ,'Police Attendance Not Required'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('719'
+            ,'No Reply'
+            ,'No Reply'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('720'
+        ,'Linked'
+        ,'Linked'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('720'
+        ,'Linked'
+        ,'Linked'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+         VALUES
+        ('721'
+        ,'Restorative Justice'
+        ,'Restorative Justice'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,1)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('722'
+        ,'V/I/W Updated'
+        ,'V/I/W Updated'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('722'
+        ,'V/I/W Updated'
+        ,'V/I/W Updated'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('723'
+        ,'Reference Number Provided'
+        ,'Reference Number Provided'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('723'
+        ,'Reference Number Provided'
+        ,'Reference Number Provided'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('724'
+        ,'CARB'
+        ,'CARB'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('724'
+        ,'CARB'
+        ,'CARB'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('725'
+            ,'Appointment Met'
+            ,'Appointment Met'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+        INSERT INTO [dbo].[OpeningCode]
+            ([codeId]
+            ,[shortDesc]
+            ,[longDesc]
+            ,[codeType]
+            ,[createdBy]
+            ,[createdDate]
+            ,[modifiedBy]
+            ,[modifiedDate]
+            ,[markedForDeleteFlag])
+        VALUES
+            ('726'
+            ,'Appointment Missed'
+            ,'Appointment Missed'
+            ,NULL
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,'Admin'
+            ,'2018-01-09 13:51:23.1710000'
+            ,1)
+        GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('727'
+        ,'Community Resolution'
+        ,'Community Resolution'
+        ,2
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
+    INSERT INTO [dbo].[OpeningCode]
+        ([codeId]
+        ,[shortDesc]
+        ,[longDesc]
+        ,[codeType]
+        ,[createdBy]
+        ,[createdDate]
+        ,[modifiedBy]
+        ,[modifiedDate]
+        ,[markedForDeleteFlag])
+    VALUES
+        ('727'
+        ,'Community Resolution'
+        ,'Community Resolution'
+        ,3
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,'Admin'
+        ,'2018-01-09 13:51:23.1710000'
+        ,0)
+    GO 
